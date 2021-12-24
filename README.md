@@ -4,6 +4,7 @@
 
 >>> ### 手写系列  
 >>>> [手写防抖节流](https://github.com/ichanghe/my_web_repository/issues/8)  
+>>>> [手写new](https://github.com/ichanghe/my_web_repository/issues/12)  
 >>>> [手写数组扁平化（es6、es5方式实现）](https://github.com/ichanghe/my_web_repository/issues/11)  
 >>>> [手写数组的方法（foreach、map、every、some、filter、reduce）](https://github.com/ichanghe/my_web_repository/issues/10)  
 >>> ### [this的使用总结](https://github.com/ichanghe/my_web_repository/issues/6)
